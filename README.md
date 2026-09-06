@@ -185,7 +185,7 @@ Track churn across customer segments to identify emerging retention problems ear
 ```text
 Customer-Retention-Churn-Analysis/
 │
-├── Customer_Churn_Analysis.ipynb
+├── Future_DS_02.ipynb
 ├── Telco_Customer_Churn_Cleaned.csv
 ├── Churn_Analysis_Report.xlsx
 ├── README.md
