@@ -200,7 +200,7 @@ Customer-Retention-Churn-Analysis/
 
 The complete Python analysis, data preparation, visualizations, and business insights are available in the Jupyter Notebook.
 
-**Notebook:** `Customer_Churn_Analysis.ipynb`
+**Notebook:** `Future_DS_02.ipynb`
 
 ---
 
